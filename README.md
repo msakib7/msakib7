@@ -38,7 +38,7 @@
      </ul>
 </div>
 
-<div text-align:center>
+<div text-align:"center">
      <h3>Langauge</h3>
      <h5>Object-Oriented langauge</h5>
      <ul>
