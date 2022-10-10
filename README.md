@@ -17,14 +17,24 @@
          <li>KMP Algorithm</li>
      </ul>
 </div>
+
 <div>
      <h3>Competitive Programming</h3>
      <ul>
           <li><b>Codeforces: </b>newby</li>
-          <li><b>At Coder: </b>newby</li>
+          <li><b>AtCoder: </b>newby</li>
           <li><b>CodeCheaf: </b>newby</li>
      </ul>
-     
-     
+</div>
+
+<div>
+     <h3>Problem Solving</h3>
+     <ul>
+          <li><link href="https://codeforces.com/profile/msakib"><b>Codeforces</b></li>
+         <li><link href="https://atcoder.jp/users/msakib"><b>AtCoder</b></li>
+          <li><link href="https://www.codechef.com/users/msakib"><b>CodeChef</b></li>
+         <li><link href="https://uhunt.onlinejudge.org/id/1130442"><b>UVa</b></li>
+          <li><link href="https://www.hackerrank.com/msakib?hr_r=1"><b>HackerRank</b></li>
+     </ul>
 </div>
 
