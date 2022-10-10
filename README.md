@@ -38,3 +38,19 @@
      </ul>
 </div>
 
+<div>
+     <h3>Langauge</h3>
+     <h5>Object-Oriented langauge</h5>
+     <ul>
+          <li><b>C</b></li>
+          <li><b>C++</b></li>
+          <li><b>Python</b></li>
+          <li><b>Java</b></li>
+     </ul>
+     <h5>Devloping</h5>
+     <ul>
+          <li><b>HTML</b></li>
+          <li><b>CSS</b></li>  
+     </ul>
+</div>
+
