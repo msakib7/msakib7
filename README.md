@@ -16,5 +16,15 @@
          <li>Dijkstra’s Algorithm</li>
          <li>KMP Algorithm</li>
      </ul>
-
 </div>
+<div>
+     <h3>Competitive Programming</h3>
+     <ul>
+          <li><b>Codeforces: </b>newby</li>
+          <li><b>At Coder: </b>newby</li>
+          <li><b>CodeCheaf: </b>newby</li>
+     </ul>
+     
+     
+</div>
+
