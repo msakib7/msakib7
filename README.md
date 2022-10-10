@@ -1,7 +1,7 @@
 
 <img src="I'm Sakib.png">
 <h1>Sakib Khan.</h1>
-<h3> Bsc in CSE<sub>3rd year</sub><br>Bangladesh University of Business and Technology.</h3>  
+<h3> Bsc in CSE <sub>(3rd year)</sub><br>Bangladesh University of Business and Technology.</h3>  
 <div>
      
   <h3>Data Structure and Algorithm</h3>
