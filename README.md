@@ -58,19 +58,22 @@
      <h1>Educational Qualification</h1>
      <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+       <th><b>Name</b></th>
+       <th><b>Result</b></th>
+       <th><b>Year</b></th>
+       <th><b>Bord</b></th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>SSC</td>
+    <td>5.00</td>
+    <td>2015</td>
+    <td>Dhaka</td>   
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>HSC</td>
+    <td>4.50</td>
+    <td>2017</td>
+       <td>Dhaka</td>   
   </tr>
 </table>
 
