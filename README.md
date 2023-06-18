@@ -12,7 +12,7 @@
          <li>Merge Sort Algorithm</li>
          <li>Quicksort Algorithm</li>
          <li>Kruskal’s Algorithm</li>
-         <li>All-Pairs Shortest Paths </li>
+         <li>All-Pairs Shortest Paths</li>
          <li>Dijkstra’s Algorithm</li>
          <li>KMP Algorithm</li>
      </ul>
@@ -44,13 +44,14 @@
      <ul>
           <li><b>C</b></li>
           <li><b>C++</b></li>
+          <li><b>JavaScript</b></li>
           <li><b>Python</b></li>
           <li><b>Java</b></li>
      </ul>
      <h5>Devloping</h5>
      <ul>
-          <li><b>HTML</b></li>
-          <li><b>CSS</b></li>  
+          <li><b>HTML 5</b></li>
+          <li><b>CSS 3</b></li>  
      </ul>
 </div>
 
@@ -73,7 +74,7 @@
     <td>HSC</td>
     <td>4.50</td>
     <td>2017</td>
-       <td>Dhaka</td>   
+     <td>Dhaka</td>   
   </tr>
 </table>
 
